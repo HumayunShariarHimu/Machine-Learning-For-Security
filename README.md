@@ -2,12 +2,10 @@
 
 > A curated and organized collection of resources related to **Machine-Learning-For-Security**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Machine Learning For Security
 > Explore ML for security: anomaly detection, malware classification, and threat prediction. Includes datasets, models, and tools for AI-driven cybersecurity solutions.
 
-# Contact With Me:
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -23,7 +21,6 @@
   </a>
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-</div>
 
 ## **Contents**
 
